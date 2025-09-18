@@ -1,8 +1,23 @@
-div{
-    height: 100px;
-    width: 100px;
-    background-color: green;
-    border: 2px;
-    border-radius: 50%;
-    text-align: center;
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+#navbar{
+    height: 30px;
+    background-color: #0f1111;
+    height: 65px;
+    border: 5px white solid;
+}
+
+#A{
+    color: #f08804;
+}
+
+a {
+    margin-right: 130px;
+}
+
+button{
+    background-color: #f08804;
 }
