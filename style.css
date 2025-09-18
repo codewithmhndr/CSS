@@ -1,9 +1,8 @@
-h1{
-    color: #F3F2EC;
-}
-body{
-    background-color: #E62727;
-}
-#headingOne{
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border: 2px;
+    border-radius: 50%;
     text-align: center;
 }
