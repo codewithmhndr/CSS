@@ -1,9 +1,15 @@
-h1{
-    color: #F3F2EC;
-}
-body{
-    background-color: #E62727;
-}
 #headingOne{
     text-align: center;
 }
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+
+}
+
