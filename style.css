@@ -1,65 +1,9 @@
-* {
-    padding: 0;
-    margin: 0;
-    color: white;
-}
-
-#navbar {
-    background-color: #0f1111;
-    height: 65px;
-    border: 5px white solid;
-}
-
-#logo {
-    color: #f08804;
-}
-
-#navbar a {
-    margin-right: 130px;
-    text-decoration: none;
-}
-
-#search-box {
-    padding: 5px;
-    color: black;
-}
-
-#search-btn {
-    background-color: #f08804;
-    border: none;
-    padding: 6px 12px;
-    cursor: pointer;
-}
-
-.Content{
+#nature{
+    background-image: url(nature.jpg);
+    background-size: cover;
     height: 100px;
     width: 100px;
-    border: 2px solid black;
-    display: inline-block;
-}
-
-footer{
-    color: black;
-    text-align: center;
-}
-
-#A{
-    background-color: rgba(0, 128, 0,0.5);
-}
-
-#B{
-    background-color: rgba(238, 255, 0, 0.5);
-}
-
-#C{
-    background-color: rgba(255, 145, 0, 0.5);
-}
-
-footer{
-    background-color: #0f1111;
-    color: white;
-}
-
-#Content{
-    height: 500px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
 }
