@@ -1,15 +1,14 @@
-#headingOne{
-    text-align: center;
+#navbar{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    height: 50px;
+    border-radius: 10px;
+    align-items: center;
+    font-size: large;
 }
-
-div{
-    height: 100px;
-    width: 100px;
-    background-color: greenyellow;
-    border: 2px solid black;
-    margin: 10px;
-    text-align: center;
-    display: inline-block;
-
+a{
+    text-decoration: none;
+    color: white;
 }
-
